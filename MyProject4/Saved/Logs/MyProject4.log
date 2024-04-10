@@ -3639,3 +3639,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-15.58.35:916][477]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.10-15.58.35:916][477]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
 [2024.04.10-15.58.35:916][477]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2024.04.10-15.59.17:337][150]BlueprintLog: New page: Compile bpcharacters
+[2024.04.10-15.59.17:510][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
